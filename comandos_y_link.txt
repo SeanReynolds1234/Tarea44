@@ -1,0 +1,10 @@
+Comandos:
+nano para archivo1.py, archivo2.py y comandos.txt
+git add, git commit -m, git push, git remote add
+python para archivo1.py y archivo2.py
+diccionario={} y diccionario[]
+print(), print(f-string)
+
+
+Link: https://github.com/SeanReynolds1234/Tarea44.git
+
